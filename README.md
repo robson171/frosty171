@@ -22,7 +22,7 @@
  
 <div> 
   <a href="https://www.youtube.com/channel/UCDKTayPl9u6ZDcV01lxzv1A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=github_dark" target="_blank"></a>
- <a href="https://discord.gg/eknpAD7NF7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=github_dark" target="_blank"></a> 
+ <a href="https://discord.gg/eknpAD7NF7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/3JBH/3JBH/blob/output/github-contribution-grid-snake.svg)
  
