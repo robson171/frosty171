@@ -6,8 +6,8 @@
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif"  width="24px" style="max-width:100%;">
     <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=3jbh" alt="3jbh" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/3jbh?style=social">    
+  <a href="https://www.github.com/3jbh" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/3jbh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
 <p align="center">  
  </p>
@@ -28,13 +28,16 @@
 <a href="https://discord.js.org/"><img src="https://img.shields.io/badge/-Discord.js-5865F2?style=flat&logoColor=white&logo=discord"/></a>
 
 
- <h2><strong>⚙ GitHub Analytics: </strong></h2>
+ <h2><strong>⚙ GitHub Stats: </strong></h2>
 
 <p align="center">
-<a href="https://github.com/v9h">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3jbh&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3jbh&layout=compact&langs_count=7&theme=midnight-purple"/>
-</a>
+<a href="http://www.github.com/3jbh"><img src="https://github-readme-stats.vercel.app/api?username=3jbh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="3jbh's GitHub stats" /></a>
+
+<a href="http://www.github.com/3jbh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itszw&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/3jbh"><img src="https://activity-graph.herokuapp.com/graph?username=3jbh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/3jbh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3jbh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
 
