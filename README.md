@@ -30,14 +30,14 @@ src="https://img.shields.io/github/followers/3jbh?logo=github&style=for-the-badg
   <a href="https://github.com/3JBH/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=3JBH&layout=compact&theme=github"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=3JBH&layout=compact&theme=github_dark"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=3JBH&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=github"
+      src="https://github-readme-stats.vercel.app/api?username=3JBH&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=github_dark"
     />
   </a>
 </p>
