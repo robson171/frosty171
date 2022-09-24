@@ -18,7 +18,9 @@ src="https://img.shields.io/github/followers/3jbh?logo=github&style=for-the-badg
   Skills
   <p align="center">  
  </p>
-  <img src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/Javascript.png" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/HTML.png" alt="HTML" width="40" height="40"/> <image src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/CSS.png" alt="css" width="40" height="40"/> <image src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/python.png" alt="Python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/Javascript.png" alt="JavaScript" width="40" height="40"/> 
+  <image src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/python.png" alt="Python" width="40" height="40"/> 
+ <img src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/HTML.png" alt="HTML" width="40" height="40"/> <image src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/CSS.png" alt="css" width="40" height="40"/>  
   <p align="center">  
  </p>
 </h1>
