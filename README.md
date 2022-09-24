@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/3jbh?logo=github&style=for-the-badg
   </a>
 </p>
 
-## 📈 📞 Contact Me:
+## 📞 Contact Me:
 <p align="center">
 <a href="https://discord.com/users/923563369989046324"> 
   <img align="center" src="https://lanyard.cnrad.dev/api/923563369989046324">
