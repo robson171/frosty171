@@ -14,25 +14,25 @@ src="https://img.shields.io/github/followers/3jbh?logo=github&style=for-the-badg
   </a>
 </h1>
 
+<h1 align="center">
+  Skills
+  <p align="center">  
+ </p>
+  <img src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/Javascript.png" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/HTML.png" alt="HTML" width="40" height="40"/> <image src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/CSS.png" alt="css" width="40" height="40"/> <image src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/python.png" alt="Python" width="40" height="40"/> 
+  <p align="center">  
+ </p>
+</h1>
 
-## 💻 Skills:
-<img src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/Javascript.png" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/HTML.png" alt="HTML" width="40" height="40"/> <image src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/CSS.png" alt="css" width="40" height="40"/> <image src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/python.png" alt="Python" width="40" height="40"/> 
- ## 🛠️ Development Environment:
-<a href="https://www.microsoft.com/ko-kr/software-download/windows11"><img src="https://img.shields.io/badge/-Windows-042571?style=flat&logo=windows"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual Studio Code-213c60?style=flat&logo=visualstudiocode"/></a>
-<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-4a7558?style=flat&logo=node.js&logoColor=white"/></a>
-<a href="https://discord.js.org/"><img src="https://img.shields.io/badge/-Discord.js-5865F2?style=flat&logoColor=white&logo=discord"/></a>
-
-
-## 📈 Github Stats:
-
-<p align="center">
-  <a href="https://github.com/3JBH/github-readme-stats">
+<h1 align="center">
+  Github Stats
+  <p align="center">  
+ </p>
+<a href="https://github.com/3JBH/github-readme-stats">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=3JBH&layout=compact&theme=github_dark"
     />
-  </a>
+</a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
@@ -40,7 +40,9 @@ src="https://img.shields.io/github/followers/3jbh?logo=github&style=for-the-badg
       src="https://github-readme-stats.vercel.app/api?username=3JBH&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=github_dark"
     />
   </a>
-</p>
+  </h1>
+
+
 
 ## 📞 Contact Me:
 <p align="center">
