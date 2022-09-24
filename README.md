@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/3jbh?logo=github&style=for-the-badg
 <a href="https://discord.js.org/"><img src="https://img.shields.io/badge/-Discord.js-5865F2?style=flat&logoColor=white&logo=discord"/></a>
 
 
-## 📈 Github Stats
+## 📈 Github Stats:
 
 <p align="center">
   <a href="https://github.com/3JBH/github-readme-stats">
@@ -42,10 +42,12 @@ src="https://img.shields.io/github/followers/3jbh?logo=github&style=for-the-badg
   </a>
 </p>
 
-
-<h2><strong>📞 Contact Me: </strong></h2>
-<a href="https://discord.com/users/923563369989046324"><img align="left" src="https://lanyard.cnrad.dev/api/923563369989046324"></a>
-
+## 📈 📞 Contact Me:
+<p align="center">
+<a href="https://discord.com/users/923563369989046324"> 
+  <img align="center" src="https://lanyard.cnrad.dev/api/923563369989046324">
+</a>
+ </p>
 
   ![Snake animation](https://github.com/3JBH/3JBH/blob/output/github-contribution-grid-snake.svg)
  
