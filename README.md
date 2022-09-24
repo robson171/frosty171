@@ -40,16 +40,20 @@ src="https://img.shields.io/github/followers/3jbh?logo=github&style=for-the-badg
       src="https://github-readme-stats.vercel.app/api?username=3JBH&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=github_dark"
     />
   </a>
+   <p align="center">  
+ </p>
   </h1>
 
+<h1 align="center">
+  Contact Me
+  <p align="center">  
+ </p>
 
-
-## 📞 Contact Me:
-<p align="center">
 <a href="https://discord.com/users/923563369989046324"> 
   <img align="center" src="https://lanyard.cnrad.dev/api/923563369989046324">
 </a>
- </p>
+</h1>
+
 
   ![Snake animation](https://github.com/3JBH/3JBH/blob/output/github-contribution-grid-snake.svg)
  
