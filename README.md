@@ -6,8 +6,8 @@
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif"  width="24px" style="max-width:100%;">
     <p align="center">  
-  <a href="https://www.github.com/3jbh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/3jbh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+  <a href="https://www.github.com/frosty171" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/frosty171?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
 <p align="center">  
  </p>
@@ -31,17 +31,17 @@ src="https://img.shields.io/github/followers/3jbh?logo=github&style=for-the-badg
   Github Stats
   <p align="center">  
  </p>
-<a href="https://github.com/3JBH/github-readme-stats">
+<a href="https://github.com/frosty171/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=3JBH&layout=compact&theme=github_dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=frosty171&layout=compact&theme=github_dark"
     />
 </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/frosty171/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=3JBH&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=github_dark"
+      src="https://github-readme-stats.vercel.app/api?username=frosty171&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=github_dark"
     />
   </a>
    <p align="center">  
@@ -59,6 +59,6 @@ src="https://img.shields.io/github/followers/3jbh?logo=github&style=for-the-badg
 </h1>
 
 
-  ![Snake animation](https://github.com/3JBH/3JBH/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/frosty171/frosty171/blob/output/github-contribution-grid-snake.svg)
  
 </div>
