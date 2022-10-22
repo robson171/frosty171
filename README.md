@@ -1,10 +1,10 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://github.com/frosty171/frosty171/blob/main/duck.gif" width="24px" style="max-width:100%;">
   </a>
   Hello There, I'm Robson!
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif"  width="24px" style="max-width:100%;">
+    <img src="https://github.com/frosty171/frosty171/blob/main/duck.gif"  width="24px" style="max-width:100%;">
     <p align="center">  
   <a href="https://www.github.com/frosty171" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/frosty171?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
